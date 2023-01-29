@@ -1,6 +1,6 @@
 # Piezīmes no odisejas
 
-[Valters Zana](https://valterszana.lv), piezīmes no mūslaiku *odisejas*[^1].
+[Valters Zana](https://valterszana.lv), mūslaiku *odisejas*[^1] piezīmes.
 
 </br>
 
