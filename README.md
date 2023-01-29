@@ -1,4 +1,4 @@
-# Piezīmes no odisejas
+# <img src="https://valterszana.lv/icons/odyssey.png" height="24px" alt="Odyssey"> Piezīmes no odisejas
 
 [Valters Zana](https://valterszana.lv), mūslaiku *odisejas*[^1] piezīmes.
 
