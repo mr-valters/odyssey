@@ -22,4 +22,10 @@
 
 </br>
 
+### [**4. Datējumi**](4.datejumi.md)
+
+*Ēšanas paradumi un mikstūres.*
+
+</br>
+
 [^1]: **odiseja**: *Ilgs ceļojums, klejojums ar daudziem piedzīvojumiem.* / 2. forma. No Latviešu literārās valodas vārdnīcas. [tezaurs.lv/Odiseja](https://tezaurs.lv/Odiseja)
