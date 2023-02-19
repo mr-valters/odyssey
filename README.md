@@ -4,25 +4,25 @@
 
 </br>
 
-### [**1. Pirmie trīs mēneši**](1.pirmie-tris-menesi.md)
+### [**1. Pirmie trīs mēneši**](01.pirmie-tris-menesi.md)
 
 *Mana atbilde uz jautājumu: **"Ko tad Tu vispār ēd?"***
 
 </br>
 
-### [**2. Bez dopinga**](2.bez-dopinga.md)
+### [**2. Bez dopinga**](02.bez-dopinga.md)
 
 *Par ogļhidrātiem, čūsku un bezjēgu.*
 
 </br>
 
-### [**3. Esmu plusos**](3.esmu-plusos.md)
+### [**3. Esmu plusos**](03.esmu-plusos.md)
 
 *Mīnusu nav, ir tikai plusi.*
 
 </br>
 
-### [**4. Datējumi**](4.datejumi.md)
+### [**4. Datējumi**](04.datejumi.md)
 
 *Ēšanas paradumi un mikstūres.*
 
