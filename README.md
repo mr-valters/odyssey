@@ -1,6 +1,10 @@
-# <img src="https://valterszana.lv/icons/odyssey.png" height="28px" alt="Odyssey"> Piezīmes no odisejas
+# ![GitHub Logo](https://valterszana.lv/icons/odyssey.png) Piezīmes no odisejas
 
 [Valters Zana](https://valterszana.lv), mūslaiku *odisejas*[^1] piezīmes.
+
+</br>
+
+## Saturs
 
 </br>
 
