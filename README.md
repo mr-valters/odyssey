@@ -2,7 +2,7 @@
 
 Valters Zana, mūslaiku *odisejas*[^1] piezīmes.
 
-[Piesakies](https://odiseja.beehiiv.com/subscribe) un seko līdzi, ja kaut kas šeit sakustas
+[Piesakies](https://odiseja.beehiiv.com/subscribe) un seko līdzi, ja kaut kas šeit sakustas.
 
 </br>
 
@@ -27,6 +27,12 @@ Mīnusu nav, ir tikai plusi.
 ## [**4. Datējumi**](04.datejumi.md)
 
 Ēšanas paradumi un mikstūres.
+
+</br>
+
+## [**5. 🧟 Nīkuļot vai 🚀 uzplaukt?**](05.nikulot-vai-uzplaukt.md)
+
+Par augēšanas bumu, produktu diētu un bioloģijas ignorēšanu.
 
 </br>
 
