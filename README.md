@@ -2,6 +2,8 @@
 
 Valters Zana, mūslaiku *odisejas*[^1] piezīmes.
 
+[Piesakies](https://odiseja.beehiiv.com/subscribe) un seko līdzi, ja kaut kas šeit sakustas
+
 </br>
 
 ## [**1. Pirmie trīs mēneši**](01.pirmie-tris-menesi.md)
